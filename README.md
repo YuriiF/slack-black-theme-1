@@ -1,5 +1,8 @@
 # Slack Black Theme Night Mood - Mac Only
 ## The Black Theme you'll fall in love with 😍
+
+This is just fork of this repository: https://github.com/caiceA/slack-black-theme
+
 ```
 28 September 2018 Update:
 - Resolved many cosmetic issues, download latest zip file from below
